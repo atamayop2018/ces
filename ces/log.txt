@@ -1,0 +1,120 @@
+{
+   "status": 200, 
+   "result": {
+      "count": 255, 
+      "previous": null, 
+      "results": [
+         {
+            "category": "Preventive", 
+            "speciality": "General Dentistry", 
+            "short_name": "PERIODIC EXAM", 
+            "service_name": "Routine 6 Month Check-Up", 
+            "service_clinical_code": "D0120", 
+            "service_description": "Routine 6 Month Check-Up", 
+            "service_id": "1", 
+            "category_id": "1", 
+            "type": "Dental"
+         }, 
+         {
+            "category": "Preventive", 
+            "speciality": "General Dentistry", 
+            "short_name": "COMPREHENSIVE EXAM", 
+            "service_name": "In-Depth Check-Up", 
+            "service_clinical_code": "D0150", 
+            "service_description": "In-Depth Check-Up", 
+            "service_id": "2", 
+            "category_id": "1", 
+            "type": "Dental"
+         }, 
+         {
+            "category": "Preventive", 
+            "speciality": "General Dentistry", 
+            "short_name": "FULL MOUTH X-RAYS", 
+            "service_name": "Full-Mouth X-Rays", 
+            "service_clinical_code": "D0210", 
+            "service_description": "Full-Mouth X-Rays", 
+            "service_id": "3", 
+            "category_id": "1", 
+            "type": "Dental"
+         }, 
+         {
+            "category": "Preventive", 
+            "speciality": "General Dentistry", 
+            "short_name": "4 BITEWING X-RAYS", 
+            "service_name": "4 Bitewing X-Rays", 
+            "service_clinical_code": "D0274", 
+            "service_description": "4 Bitewing X-Rays", 
+            "service_id": "4", 
+            "category_id": "1", 
+            "type": "Dental"
+         }, 
+         {
+            "category": "Preventive", 
+            "speciality": "General Dentistry", 
+            "short_name": "PANO X-RAY", 
+            "service_name": "Panoramic Film", 
+            "service_clinical_code": "D0330", 
+            "service_description": "Panoramic Film", 
+            "service_id": "5", 
+            "category_id": "1", 
+            "type": "Dental"
+         }, 
+         {
+            "category": "Preventive", 
+            "speciality": "General Dentistry", 
+            "short_name": "REGULAR CLEANING - ADULT", 
+            "service_name": "Adult Teeth Cleaning", 
+            "service_clinical_code": "D1110", 
+            "service_description": "Adult Teeth Cleaning", 
+            "service_id": "6", 
+            "category_id": "1", 
+            "type": "Dental"
+         }, 
+         {
+            "category": "Preventive", 
+            "speciality": "General Dentistry", 
+            "short_name": "REGULAR CLEANING - CHILD", 
+            "service_name": "Child Teeth Cleaning", 
+            "service_clinical_code": "D1120", 
+            "service_description": "Child Teeth Cleaning", 
+            "service_id": "7", 
+            "category_id": "1", 
+            "type": "Dental"
+         }, 
+         {
+            "category": "Preventive", 
+            "speciality": "General Dentistry", 
+            "short_name": "TOOTH SEALANT", 
+            "service_name": "Protective Sealant/Tooth", 
+            "service_clinical_code": "D1351", 
+            "service_description": "Protective Sealant/Tooth", 
+            "service_id": "8", 
+            "category_id": "1", 
+            "type": "Dental"
+         }, 
+         {
+            "category": "Preventive", 
+            "speciality": "General Dentistry", 
+            "short_name": "DEEP CLEANING", 
+            "service_name": "Perio Scaling And Root Planing (Per Quadrant) ", 
+            "service_clinical_code": "D4341", 
+            "service_description": "Perio Scaling And Root Planing (Per Quadrant) ", 
+            "service_id": "9", 
+            "category_id": "1", 
+            "type": "Dental"
+         }, 
+         {
+            "category": "Major", 
+            "speciality": "General Dentistry", 
+            "short_name": "FRONT TOOTH ROOT CANAL", 
+            "service_name": "Root Canal Treatment Front Tooth", 
+            "service_clinical_code": "D3310", 
+            "service_description": "Root Canal Treatment Front Tooth", 
+            "service_id": "16", 
+            "category_id": "3", 
+            "type": "Dental"
+         }
+      ], 
+      "next": "http://www.smarthealthapi.com/api/get_services/?limit=10&offset=10"
+   }
+}
